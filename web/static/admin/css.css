@@ -112,6 +112,7 @@ table {
   font-family: arial, sans-serif;
   border-collapse: collapse;
   width: 100%;
+  color: #fff;
 }
 
 td, th {
@@ -124,9 +125,7 @@ tr:nth-child(even) {
   background-color: #535C91;
 }
 
-tr:nth-child(even):hover{
-    background-color: #7f8ddb;   
-}
+
 
 form{
     color: #535C91;
