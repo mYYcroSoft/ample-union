@@ -1,0 +1,15 @@
+{
+    "name": "myycro/framework",
+    "autoload": {
+        "psr-4": {
+            "Myycro\\Framework\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mYcroSoft",
+            "email": "j.sivco22@gmail.com"
+        }
+    ],
+    "require": {}
+}
